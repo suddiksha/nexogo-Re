@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+.land-title{
+  padding: 0 70px;} 
+.vigor {
+  font-size: 50px;
+  font-family: "Noto Sans", sans-serif;
+  color: #f4815a;
+  font-weight: 800;
+}
+
+
+.best {
+  font-family: "Noto Sans", sans-serif;
+  color: #454444;
+  font-size: 50px;
+  font-weight: 800;
+  margin-top: 100px;
+}
+.lithium {
+  color: #ff8450;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.learn_more.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background-color: #f4815a;
+  color: black;
+  border-radius: 7px;
+  font-size: 16px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 600;
+  box-shadow: none;
+  padding: 6px 22px;
+}
+.learn_more.css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+  background-color: #f4815a;
+}
+
+.rect{
+  width: 100%;
+overflow: hidden;
+position: relative;
+top:-450px;
+}
+.lithium-sub{
+  color: #000;
+width: 350px;
+font-family: "Noto Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+
+.rectangle {
+  position: relative;
+  width: 100%; 
+  height: 100%; 
+}
+
+.rect {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.bty1 {
+  width: 330px;
+  height: 520px;
+left: 150px;
+
+position: relative;
+  z-index: 4;
+}
+.appln{
+  font-family: 'Noto Sans', sans-serif;
+font-family: "Noto Sans";
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+margin-right: 100px;
+position: relative;
+top: -700px;
+
+}
+.app1{
+  width: 68px;
+height: 68px;
+color: #000;
+
+font-family: 'Noto Sans', sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+
+
+border-radius: 40px;
+flex-shrink: 0;
+}
+
+.appln-img{
+  margin-right: 120px;
+  position: relative;
+top: -680px; 
+}

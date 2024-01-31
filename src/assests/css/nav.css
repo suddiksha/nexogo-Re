@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
+.navbar {
+  font-family: "Noto Sans", sans-serif;
+  padding: 0 70px;
+}
+
+.logo {
+  width: 95px;
+  /* margin-left: 60px; */
+  height: 35px;
+  padding: 0px;
+}
+.contactus_btn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background-color: #f4815a;
+  color: black;
+  font-size: 11px;
+  border-radius: 10px;
+  margin-top: -3px;
+  
+  padding: 5px 15px;
+  font-family: 'Noto Sans', sans-serif;
+}
+.contactus_btn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #f4815a;
+}
+
+.list-item li a {
+  color: black;
+  text-decoration: none;
+  font-size: 12px;
+}
+.list-item {
+  list-style-type: none;
+  padding:0 0;
+  display: flex;
+  margin: 0 0;
+  position: relative;
+  left: 26px;
+}
+.list-item li {
+  margin: 0px 30px;
+}
+.profile {
+  width: 30px;
+  height: 30px;
+}
+/* ul.list-item {
+  margin-right: 60px;
+} */
+.list-item a:hover {
+  color: #f4815a;
+}
+
+.menu:hover{
+  color: #f4815a;
+}
+
+@media screen and (max-width: 992px){
+  .list-item li {
+    margin: 0px 22px;
+  }
+}
