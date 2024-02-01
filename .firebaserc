@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "nexigo01"
-  }
+    "default": "nexigo-fb5bf",
+    "staging": "nexigo-fb5bf"
+  },
+  "targets": {},
+  "etags": {}
 }
