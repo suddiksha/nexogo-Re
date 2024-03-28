@@ -431,7 +431,7 @@ line-height: normal;
         .bty2{
             position: none !important;;
                left: 0px !important;
-               width: 100%!important;
+               width: 90%!important;
                height: auto;
                text-align: center!important;
         }
@@ -471,7 +471,7 @@ line-height: normal;
             color: #000;
             font-family: 'Noto Sans', sans-serif;
         
-            font-size: 11px;
+            font-size: 12px;
             
             font-style: normal;
             font-weight: 400;
@@ -482,7 +482,7 @@ line-height: normal;
             color: #000;
             font-family: 'Noto Sans', sans-serif;
         
-        font-size: 12px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -502,7 +502,7 @@ line-height: normal;
         .bty2{
             position: none !important;;
                left: 0px !important;
-               width: 100%!important;
+               width: 80%!important;
                height: auto;
                text-align: center!important;
         }
@@ -542,7 +542,7 @@ line-height: normal;
             color: #000;
             font-family: 'Noto Sans', sans-serif;
         
-            font-size: 9px;
+            font-size: 11px;
             
             font-style: normal;
             font-weight: 400;
@@ -553,7 +553,7 @@ line-height: normal;
             color: #000;
             font-family: 'Noto Sans', sans-serif;
         
-        font-size: 10px;
+        font-size: 12px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;

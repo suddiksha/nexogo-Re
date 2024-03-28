@@ -38,7 +38,7 @@ function Contact() {
 
 
           <div className="col-12 locationsec  ">
-            <h2 className="location pt-5 mt-5">Location</h2>
+            <h2 className="location pt-5 mt-4">Location</h2>
             <h3 className="place pt-3">Hyderabad , India</h3>
             <p className="address pt-2">
               Plot no 1 & 4, Survey no: 354 A & AA Nandigama Village, Patancheru

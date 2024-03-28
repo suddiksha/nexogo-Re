@@ -12,7 +12,7 @@ function Backgrdcard() {
       <div className="text-center">
         <div className="row justify-content-center ms-1 me-1">
           <div className="col-10 col-sm-3 col-md-3 col-lg-3 pt-3 pb-3 text-center">
-            <div className="card_box card p-0 crd1">
+            <div className="card_box card p-0 crd1 m-0">
               <motion.div
                 className="original-text"
                 initial={{ y: 0, opacity: 1 }}
@@ -26,7 +26,7 @@ function Backgrdcard() {
                 className="new-text"
                 initial={{ y: -90, opacity: 0 }}
                 animate={inView ? { y: 0, opacity: 1 } : {}}
-                transition={{ duration: 1, delay: 1.5 }}
+                transition={{ duration: 1, delay: 1 }}
               >
                 <h4 className="text-center m-0 pt-1 c1">1.5Hr</h4>
                 <p className="p1 text-center">Fast Charging</p>
@@ -36,7 +36,7 @@ function Backgrdcard() {
        
        
           <div className="col-10 col-sm-3 col-md-3 col-lg-3 pt-3 pb-3 text-center">
-            <div className="card_box card p-0 crd1">
+            <div className="card_box card p-0 crd1 m-0">
               <motion.div
                 className="original-text"
                 initial={{ y: 0, opacity: 1 }}
@@ -50,7 +50,7 @@ function Backgrdcard() {
                 className="new-text"
                 initial={{ y: -90, opacity: 0 }}
                 animate={inView ? { y: 0, opacity: 1 } : {}}
-                transition={{ duration: 1, delay: 1.5 }}
+                transition={{ duration: 1, delay: 1 }}
               >
                 <h4 className="text-center m-0 pt-1 c1">1300</h4>
                 <p className="p1 text-center">Life Cycle</p>
@@ -59,7 +59,7 @@ function Backgrdcard() {
           </div>
        
           <div className="col-10 col-sm-3 col-md-3 col-lg-3 pt-3 pb-3 text-center">
-            <div className="card_box card p-0 crd1">
+            <div className="card_box card p-0 crd1 m-0">
               <motion.div
                 className="original-text"
                 initial={{ y: 0, opacity: 1 }}
@@ -73,7 +73,7 @@ function Backgrdcard() {
                 className="new-text"
                 initial={{ y: -90, opacity: 0 }}
                 animate={inView ? { y: 0, opacity: 1 } : {}}
-                transition={{ duration: 1, delay: 1.5 }}
+                transition={{ duration: 1, delay: 1 }}
               >
                 <h4 className="text-center m-0 pt-1 c1">0C - 40C</h4>
                 <p className="p1 text-center">Consistent</p>
@@ -82,7 +82,7 @@ function Backgrdcard() {
           </div>
 
           <div className="col-10 col-sm-3 col-md-3 col-lg-3 pt-3 pb-3 text-center">
-            <div className="card_box card p-0 crd1">
+            <div className="card_box card p-0 crd1 m-0">
               <motion.div
                 className="original-text"
                 initial={{ y: 0, opacity: 1 }}
@@ -96,7 +96,7 @@ function Backgrdcard() {
                 className="new-text"
                 initial={{ y: -90, opacity: 0 }}
                 animate={inView ? { y: 0, opacity: 1 } : {}}
-                transition={{ duration: 1, delay: 1.5 }}
+                transition={{ duration: 1, delay: 1 }}
               >
                 <h4 className="text-center m-0 pt-1 c1">Shoulder,Handle</h4>
                 <p className="p1 text-center">Adjustable/Replaceable Strap</p>

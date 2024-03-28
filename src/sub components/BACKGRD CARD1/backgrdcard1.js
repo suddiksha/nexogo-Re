@@ -29,7 +29,7 @@ function Backgrdcard1() {
                 className="text2"
                 initial={{ y: -90, opacity: 0 }}
                 animate={inView ? { y: 0, opacity: 1 } : {}}
-                transition={{ duration: 1, delay: 1.5 }}
+                transition={{ duration: 1, delay: 1 }}
               >
                 <h4 className="text-center m-0 pt-1 c1">20 Min</h4>
                 <p className="p1 text-center">Fast Charging</p>
@@ -52,7 +52,7 @@ function Backgrdcard1() {
                 className="text2"
                 initial={{ y: -90, opacity: 0 }}
                 animate={inView ? { y: 0, opacity: 1 } : {}}
-                transition={{ duration: 1, delay: 1.5 }}
+                transition={{ duration: 1, delay: 1 }}
               >
                 <h4 className="text-center m-0 pt-1 c1">3000</h4>
                 <p className="p1 text-center">Life Cycle</p>
@@ -75,7 +75,7 @@ function Backgrdcard1() {
                 className="text2"
                 initial={{ y: -90, opacity: 0 }}
                 animate={inView ? { y: 0, opacity: 1 } : {}}
-                transition={{ duration: 1, delay: 1.5 }}
+                transition={{ duration: 1, delay: 1 }}
               >
                 <h4 className="text-center m-0 pt-1 c1">0C - 40C</h4>
                 <p className="p1 text-center">Consistent</p>
@@ -98,7 +98,7 @@ function Backgrdcard1() {
                 className="text2"
                 initial={{ y: -90, opacity: 0 }}
                 animate={inView ? { y: 0, opacity: 1 } : {}}
-                transition={{ duration: 1, delay: 1.5 }}
+                transition={{ duration: 1, delay: 1 }}
               >
                 <h4 className="text-center m-0 pt-1 c1">Last Mile Delivery</h4>
                 <p className="p1 text-center">Application</p>

@@ -6,7 +6,7 @@ import Card3 from "../../assests/img/card-img3.png";
 function Card() {
   return (
     <>
-      <h2 className="head text-center">OUR STRENGTHS</h2>
+      <h2 className="head text-center ">OUR STRENGTHS</h2>
       <div className="backgrd  mt-3">
         <div className="row justify-content-evenly m-0 pt-5 text-center">
           <div className="col-10 col-xxl-3 col-xl-3   col-lg-3 col-md-3 col-sm-10 ">

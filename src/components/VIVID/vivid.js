@@ -70,7 +70,7 @@ function Vivid() {
               </div>
             </div>
           </div>
-        ) : (
+         ) : (
           <div className="row justify-content-center  pt-5 mb-5">
             <div className="col-6 mt-5  ">
               <h1 className="btyhead1">VIVID</h1>
