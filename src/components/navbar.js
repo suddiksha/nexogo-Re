@@ -36,11 +36,11 @@ function Navbar() {
               exit={{ opacity: 0, y: -100 }}
               transition={{ duration: 0.5 }}>
               <div className="content">
-                <a href="product">PRODUCTS</a>
-                <a href="#">MARKETS</a>
+                <a href="/product">PRODUCTS</a>
+                <a href="/market">MARKETS</a>
                 <a href="/cap">CAPABILITIES</a>
                 <a href="/about">ABOUT US</a>
-                <a href="#">CONTACT US</a>
+                <a href="/contact">CONTACT US</a>
               </div>
             </motion.div>
           )}
@@ -48,12 +48,12 @@ function Navbar() {
 
         {!isTabletOrMobile && (
           <ul className="list-item pt-1">
-            <li className="nav-item"><a href="#">PRODUCTS</a></li>
-            <li className="nav-item"><a href="#">MARKETS</a></li>
+            <li className="nav-item"><a href="/product">PRODUCTS</a></li>
+            <li className="nav-item"><a href="/market">MARKETS</a></li>
             <li className="nav-item"><a href="/cap">CAPABILITIES</a></li>
             <li className="nav-item"><a href="/about">ABOUT US</a></li>
-            <li className="nav-item">
-              <Button variant="contained" className="contactus_btn">CONTACT US</Button>
+            <li className="nav-item " >
+            <a href="/contact">     <Button variant="contained" className="contactus_btn">CONTACT US</Button></a>
             </li>
             <li className="nav-item">
               <a href="#"><img src={Profile} className="profile" alt="Profile" /></a>

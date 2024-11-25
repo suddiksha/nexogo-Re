@@ -10,6 +10,8 @@ import Backgrdcard1 from "./sub components/BACKGRD CARD1/backgrdcard1";
 import Contact from "./components/contact-us/contact";
 import Aboutus from "./components/about-us/about";
 import Cap from "./components/capabilities/cap";
+import Product from "./components/product-page/product";
+import Market from "./components/market-page/market";
 
 function App() {
   return (
@@ -35,6 +37,10 @@ function App() {
 
           <Route path="/about" element={<Aboutus />} />
           <Route path="/cap" element={<Cap/>} />
+          <Route path="/product" element={<Product/>} />
+          <Route path="/market" element={<Market/>} />
+
+
 
         </Routes>
       </Router>
